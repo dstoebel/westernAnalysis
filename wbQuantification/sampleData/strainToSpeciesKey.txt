@@ -1,0 +1,15 @@
+strainNo	strainName
+31	E. coli K-12
+32	E. coli K-12 ∆rpoS
+33	E. coli CFT073
+34	E. coli 536
+35	E. coli MS 69-1
+36	E. fergusonii
+37	S. Typhimuirum
+38	S. Typhimuirum ∆rpoS
+39	C. freundii
+40	C. rodentium
+41	E. cloacae
+42	K. penumoniae
+43	K. oxytoca
+44	S. marcesens
