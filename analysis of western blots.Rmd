@@ -2,7 +2,7 @@
 title: "Western blot analysis"
 output: html_notebook
 ---
-These notes are written for Stoebel Lab quantification of RpoS blots. You may need to work with Dan to modify the stanards or code below for your specific work. In particular the code was written with one independent variable in mind. (I.e. one strain at many time points, one strain at many RpoS levels, or many strains at many time points.) If you've got something more complicated, we can modify things.
+These notes are written for Stoebel Lab quantification of RpoS blots. You may need to work with Dan to modify the standards or code below for your specific work. In particular the code was written with one independent variable in mind. (I.e. one strain at many time points, one strain at many RpoS levels, or many strains at one time point.) If you've got something more complicated, we can modify things.
 
 ##Setting up your data
 
